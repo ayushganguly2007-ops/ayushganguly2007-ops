@@ -32,6 +32,6 @@ Git workflows, API interaction, and Markdown documentation
 
 ## Connect With Me
 
-- LinkedIn : www.linkedin.com/in/ayush-ganguly-b74451425
+- LinkedIn : https://www.linkedin.com/in/ayush-ganguly-b74451425/
 
 - Email : 2601730072@krmu.edu.in
